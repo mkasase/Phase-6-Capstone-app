@@ -1,1 +1,5 @@
 # Phase-6-Capstone-app
+
+Phase 6 Final Project – Medicare (dynamic and responsive Java e-healthcare web application for ordering medicines of different categories)
+Background of the problem statement:
+Medicare is a pharmaceutical business supplies medicines and other healthcare product at affordable price established in 2012 Delhi, India. In 2017, there has been a decline of sales according to business analysts after years of service as such it’s looking to build a web application to keep up with competitors. Based on their online purchases of medications and other healthcare supplies, they conducted a study and discovered that companies such as 100mg and mfine have achieved profitability by removing away the middlemen from the online drug purchasing process.  You are hired as the Full Stack Java developer and are asked to develop the web application. The management team has provided you with the requirements and their business model so that you can easily arrange different components of the application.
